@@ -6,4 +6,17 @@
 //  Copyright © 2017 Mostafa Taha. All rights reserved.
 //
 
+import UIKit
 import Foundation
+
+class ToDoList{
+    
+    var name : String = ""
+    var important : Bool = false
+    
+}
+
+
+
+
+
